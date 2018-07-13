@@ -1,0 +1,7 @@
+import 'automapper-ts/automapper';
+import { Injectable } from '@nestjs/common';
+
+@Injectable()
+export class MapperService {
+  
+}
